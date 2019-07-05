@@ -1,2 +1,3 @@
 Örnek veriler.
 Github çalışması
+Silinmek için olşturulan satır
