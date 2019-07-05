@@ -1,3 +1,4 @@
 Örnek veriler.
 Github çalışması
-Silinmek için olşturulan satır
+
+3. satırı silip 4. satırı ekliyorum...
